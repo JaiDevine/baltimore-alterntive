@@ -5,3 +5,15 @@
 #kickstarter{
     float: left;;
 }
+
+h1{
+    font-family: "Patrick Hand SC", cursive;
+    text-decoration: underline;
+}
+
+p {
+    font-weight: 500;
+    font-style: normal;
+    font-size: larger;
+  }
+  
